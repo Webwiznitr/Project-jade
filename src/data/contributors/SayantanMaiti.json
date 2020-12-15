@@ -1,0 +1,13 @@
+{
+    "salutation": "HI!",
+    "name": "Sayantan Maiti",
+    "skills": ["C++", "Front End","Node.js"],
+    "team": "Core Team",
+    "image": "/images/avatar/Avatar2.jpg",
+    "backgroundImg" : "/images/cover/Avatar2bg.jpg",
+    "twitter": "https://twitter.com/sayan10_maiti",
+    "github": "https://github.com/SayantanMaiti",
+    "linkedin": "https://www.linkedin.com/in/sayantanmaiti17/"
+  }
+  
+  

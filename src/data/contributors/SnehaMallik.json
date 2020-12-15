@@ -1,0 +1,13 @@
+{
+    "salutation": "Hello!",
+    "name": "Sneha Mallik",
+    "skills": ["Front End","ReactJs","C++"],
+    "team": "Core Team",
+    "image": "/images/avatar/Avatar3.jpg",
+    "backgroundImg" : "/images/cover/Avatar3bg.jpg",
+    "twitter": "https://twitter.com/snehaM2210",
+    "github": "https://github.com/snehaM2210",
+    "linkedin": "https://www.linkedin.com/in/sneha-mallik-736170191/"
+  }
+  
+  

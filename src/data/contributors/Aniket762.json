@@ -1,0 +1,10 @@
+{
+    "salutation": "Namaste!",
+    "name": "Aniket Pal",
+    "skills": ["Python", "MERN","Flutter","AR"],
+    "team": "President",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "github": "https://github.com/Aniket762",
+    "linkedin": "https://www.linkedin.com/in/aniket-pal-5996251aa/"
+  }
