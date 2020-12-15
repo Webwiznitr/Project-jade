@@ -255,7 +255,7 @@ export default function Home({ data }) {
                   variant="contained"
                   color="primary"
                   component="a"
-                  href="https://github.com/Webwiznitr/Project-Jade-2"
+                  href="https://github.com/Webwiznitr/Project-Jade"
                   target="_blank"
                   className={classes.btn}
                   >
