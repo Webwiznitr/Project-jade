@@ -2,7 +2,7 @@
 
 - Kindly Read the [Contributing Guidlines](CONTRIBUTING.md) before making any changes.
 - Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
-- Check the Deplyed Version at: [team.webwiznitr.xyz](https://team.webwiznitr.xyz)
+- Check the Deplyed Version at: [webwiz.netlify.app](https://webwiz.netlify.app/)
 
 ## How to Join the Community:
 
@@ -15,4 +15,4 @@
 
 - Only accept one json edit per PR.
 - Always remember to squash and merge the PR.
-- Use Vercel Preview before approving the changes.
+
