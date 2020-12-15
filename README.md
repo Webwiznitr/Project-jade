@@ -16,3 +16,4 @@
 - Only accept one json edit per PR.
 - Always remember to squash and merge the PR.
 
+![](https://i.imgur.com/mOZpPGs.gif)
