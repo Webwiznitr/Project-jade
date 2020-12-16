@@ -1,0 +1,12 @@
+  
+{
+    "salutation": "Hi!",
+    "name": "Divya Sri Darimisetti",
+    "skills": [PHP,AJAX,MYSQL,Python, HTML,CSS,JS],
+    "team": "Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/irsayvid?s=09",
+    "github": "https://github.com/irsayvid",
+    "linkedin": "https://www.linkedin.com/in/divya-sri-darimisetti-6166a8194"
+  }
