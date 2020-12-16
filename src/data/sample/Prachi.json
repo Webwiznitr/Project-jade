@@ -1,0 +1,11 @@
+{
+    "salutation": "HELLO",
+    "name": "Prachi Nandi",
+    "skills": [C++,Python,webdevelopment],
+    "team": "Webwiz",
+    "image": "https://avatars1.githubusercontent.com/u/72700861?s=460&u=5ec7aacdbd9449f5614b4fc1456077aed574dfb1&v=4",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "",
+    "github": "https://github.com/prachi237",
+    "linkedin": "https://www.linkedin.com/in/prachi-nandi-461641198/"
+  }
