@@ -1,0 +1,11 @@
+{
+    "salutation": "Heyy",
+    "name": "Neeraj",
+    "skills": ["Python"]
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar6.jpg",
+    "backgroundImg" : "/images/cover/Avatar6bg.jpg",
+    "twitter": "https://twitter.com/neeraj",
+    "github": "https://github.com/neeraj",
+    "linkedin": "https://www.linkedin.com/in/neeraj"
+  }
