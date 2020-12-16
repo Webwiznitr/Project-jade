@@ -1,0 +1,11 @@
+{
+    "salutation": "HELLO",
+    "name": "Hemant Bajaj",
+    "skills": ["HTML","CSS"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar2.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/something",
+    "github": "https://github.com/ORKO06",
+    "linkedin": "https://www.linkedin.com/in/somrthingdg"
+  }
