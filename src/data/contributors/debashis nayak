@@ -1,0 +1,11 @@
+{
+    "salutation": "Hi everyone",
+    "name": "Debashis Nayak",
+    "skills": ["javascript","PHP","Go lang"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar5bg.jpg",
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/deb2000-sudo/",
+    "linkedin": "https://www.linkedin.com/in/"
+  }
