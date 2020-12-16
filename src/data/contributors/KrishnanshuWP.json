@@ -1,0 +1,11 @@
+{
+    "salutation": "Welcome to my podcast",
+    "name": "Krishnanshu Sharma",
+    "skills": [Python, Javascript, Html, Css, Adobe creative suite, UI/UX, C++, C],
+    "team": "Member",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar5bg.jpg",
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/white-panda-afk",
+    "linkedin": "https://www.linkedin.com/in/krishnanshu-sharma-25520b178/"
+  }
