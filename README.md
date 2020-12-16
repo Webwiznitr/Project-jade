@@ -15,5 +15,6 @@
 
 - Only accept one json edit per PR.
 - Always remember to squash and merge the PR.
+- Project base from CFC
 
 ![](https://i.imgur.com/mOZpPGs.gif)
