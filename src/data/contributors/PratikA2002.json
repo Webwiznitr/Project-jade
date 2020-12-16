@@ -1,0 +1,11 @@
+{
+    "salutation": "Ohayo",
+    "name": "Pratika Mishra",
+    "skills": ["Animation", "Design", "C"],
+    "team": "Rookie",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/NarendraModi",
+    "github": "https://github.com/rookie",
+    "linkedin": "https://www.linkedin.com/in/PMO"
+  }
