@@ -1,0 +1,11 @@
+{
+    "salutation": "Hello",
+    "name": "kumar shantanu",
+    "skills": ["design"],
+    "team": "member",
+    "image": "/images/avatar/Avatar6.jpg",
+    "backgroundImg" : "/images/cover/Avatar3bg.jpg",
+    "twitter": "",
+    "github": "https://github.com/shantanu01",
+    "linkedin": "https://www.linkedin.com/in/shantanu01/"
+  }
