@@ -1,0 +1,11 @@
+{
+    "salutation": "Hey There",
+    "name": "Kamlans",
+    "skills": ["Android Development" , "Web Development Basics"],
+    "team": "ThinkingAboutIt",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/Kamlans",
+    "github": "https://github.com/Kamlans",
+    "linkedin": "https://www.linkedin.com/in/"
+  }
