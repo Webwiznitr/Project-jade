@@ -1,0 +1,11 @@
+{
+    "salutation": "Hello",
+    "name": "Arpit Pati",
+    "skills": ["interest"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar5bg.jpg",
+    "twitter": "https://twitter.com/Arpit",
+    "github": "https://github.com/Arpit",
+    "linkedin": "https://www.linkedin.com/in/Arpit"
+  }
