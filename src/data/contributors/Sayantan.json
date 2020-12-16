@@ -1,0 +1,11 @@
+{
+    "salutation": "Pranaam ",
+    "name": "Sayantan Chatterjee",
+    "skills": ["Ideas Giving Capacity" , "HTML" , "CSS" , "JAVA SCRIPT" , "C++" , "JAVA"],
+    "team": "Member",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar5bg.jpg",
+    "twitter": "https://twitter.com/Random",
+    "github": "https://github.com/Randon",
+    "linkedin": "https://www.linkedin.com/in/"
+  }
