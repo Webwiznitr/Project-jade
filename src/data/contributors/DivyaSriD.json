@@ -2,7 +2,7 @@
 {
     "salutation": "Hi!",
     "name": "Divya Sri Darimisetti",
-    "skills": [PHP,AJAX,MYSQL,Python, HTML,CSS,JS],
+    "skills": ["Web","Python"],
     "team": "Member",
     "image": "/images/avatar/Avatar1.jpg",
     "backgroundImg" : "/images/cover/Avatar1bg.jpg",
