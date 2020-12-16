@@ -1,0 +1,11 @@
+{
+    "salutation": "Jai Jagannath!",
+    "name": "Padmaja Bhol",
+    "skills": ["CSS", "HTML"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/random",
+    "github": "https://github.com/padmajabhol",
+    "linkedin": "https://www.linkedin.com/in/padmajabhol"
+  }
