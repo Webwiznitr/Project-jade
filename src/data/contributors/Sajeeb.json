@@ -1,0 +1,11 @@
+{
+    "salutation": "Bonk",
+    "name": "Sajeeb Das",
+    "skills": ["CSS", "Jquery", "C", "Python"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/sajeeb007",
+    "github": "https://github.com/sajeeb007",
+    "linkedin": "https://www.linkedin.com/in/sajeeb-das-8835261b4/"
+  }
