@@ -1,0 +1,11 @@
+{
+    "salutation": "Hola",
+    "name": "Subhasish Panda",
+    "skills": ["c++", "java", "python"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar5.jpg",
+    "backgroundImg" : "/images/cover/Avatar5bg.jpg",
+    "twitter": "https://twitter.com/Subhasish Panda",
+    "github": "https://github.com/sp7infinity",
+    "linkedin": "https://www.linkedin.com/in/Subhasish Panda"
+  }
