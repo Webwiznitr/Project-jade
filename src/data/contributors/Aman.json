@@ -1,0 +1,11 @@
+{
+    "salutation": "Ram Ram",
+    "name": "Aman Bishnoi",
+    "skills": ["python","Django"],
+    "team": "Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/aman248",
+    "linkedin": "https://www.linkedin.com/in/aman-bishnoi-581365191/"
+  }
