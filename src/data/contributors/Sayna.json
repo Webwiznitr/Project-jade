@@ -1,0 +1,11 @@
+{
+    "salutation": "Hola Amigos",
+    "name": "Sayna Parida",
+    "skills": ["React" ,"Node", "C++" ],
+    "team": "Vice President",
+    "image": "/images/avatar/Avatar4.jpg",
+    "backgroundImg" : "/images/cover/Avatar4bg.jpg",
+    "twitter": "https://twitter.com/SaynaRocks",
+    "github": "https://github.com/SaynaRocks",
+    "linkedin": "https://www.linkedin.com/in/SaynaRocks"
+  }
