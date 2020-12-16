@@ -1,0 +1,11 @@
+{
+    "salutation": "HOLA GEEKS",
+    "name": "Ankush Lohani",
+    "skills": [HTML CSS C JS],
+    "team": "Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/iam__akl",
+    "github": "https://github.com/iamakl",
+    "linkedin": "https://www.linkedin.com/in/ankush-lohani-51b521191/"
+  }
