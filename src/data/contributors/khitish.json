@@ -1,0 +1,11 @@
+{
+    "salutation": "hola amigos",
+    "name": "khitish",
+    "skills": ["basketball","fronted"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/khitishkumar",
+    "github": "https://github.com/khitish",
+    "linkedin": "https://www.linkedin.com/in/khitish07"
+  }
