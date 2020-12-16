@@ -1,7 +1,7 @@
 {
     "salutation": "HOLA GEEKS",
     "name": "Ankush Lohani",
-    "skills": [HTML CSS C JS],
+    "skills": ["HTML" "CSS" "C" "JS"],
     "team": "Member",
     "image": "/images/avatar/Avatar1.jpg",
     "backgroundImg" : "/images/cover/Avatar1bg.jpg",
