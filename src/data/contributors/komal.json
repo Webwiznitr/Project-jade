@@ -1,0 +1,11 @@
+{
+    "salutation": "Hola",
+    "name": "komal",
+    "skills": ["React","Node"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/ko",
+    "github": "https://github.com/ko",
+    "linkedin": "https://www.linkedin.com/in/ko"
+  }
