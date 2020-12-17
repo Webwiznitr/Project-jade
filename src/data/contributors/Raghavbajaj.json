@@ -1,7 +1,7 @@
 {
     "salutation": "Hii",
     "name": "Raghav Bajaj",
-    "skills": ["Photoshop"],
+    "skills": ["Photoshop","Webdev"],
     "team": "Community Member",
     "image": "/images/avatar/Avatar1.jpg",
     "backgroundImg" : "/images/cover/Avatar1bg.jpg",
