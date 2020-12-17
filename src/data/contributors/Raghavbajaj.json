@@ -1,0 +1,11 @@
+{
+    "salutation": "Hii",
+    "name": "Raghav Bajaj",
+    "skills": ["Photoshop"],
+    "team": "Community Member",
+    "image": "/images/avatar/Avatar1.jpg",
+    "backgroundImg" : "/images/cover/Avatar1bg.jpg",
+    "twitter": "https://twitter.com/RAGHAV_BAJAJ__",
+    "github": "https://github.com/Raghavbajaj",
+    "linkedin": "https://www.linkedin.com/in/raghav-bajaj-366594194/"
+  }
