@@ -1,7 +1,7 @@
 {
     "salutation": "Welcome to my podcast",
     "name": "Krishnanshu Sharma",
-    "skills": [Python, Javascript, Html, Css, Adobe creative suite, UI/UX, C++, C],
+    "skills": ["Python", "Javascript", "Adobe creative suite", "UI/UX"],
     "team": "Member",
     "image": "/images/avatar/Avatar5.jpg",
     "backgroundImg" : "/images/cover/Avatar5bg.jpg",
